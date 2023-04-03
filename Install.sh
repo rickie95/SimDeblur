@@ -1,5 +1,5 @@
 # install packages in requirements.txt
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install -r requirements.txt
 
 # Compile and install deformable convolution for EDVR
 cd ./simdeblur/model/backbone/edvr/dcn
